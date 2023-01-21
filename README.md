@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andratr
-- 👀 I’m interested in UPB
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 
 
